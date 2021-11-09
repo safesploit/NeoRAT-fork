@@ -1,0 +1,13 @@
+opencv-python
+cryptography
+desktopmagic
+requests
+tabulate
+colorama
+pypykatz
+pywin32
+pipwin
+pillow
+pynput
+pyasn1
+rsa
